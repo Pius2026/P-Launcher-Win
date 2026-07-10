@@ -1,0 +1,54 @@
+# Local agent state and internal work records
+/.claude/
+/.codegraph
+/.omo/
+/.debug-journal.md
+/plans/
+/work.md
+
+# User-specific exported layouts and local paths
+/저장된 설정/
+
+# Backups, publish output, and private distribution bundles
+/backup/
+/artifacts/
+/메일전송_패키지/
+/P-Edu-Launcher - noclick.lnk
+/P-Edu-Launcher.exe
+/P-Edu-Launcher.dll
+/P-Edu-Launcher.pdb
+/P-Edu-Launcher.deps.json
+/P-Edu-Launcher.runtimeconfig.json
+
+# .NET build and test output
+**/[Bb]in/
+**/[Oo]bj/
+**/TestResults/
+*.trx
+*.coverage
+*.coveragexml
+coverage/
+coverage.*
+*.pdb
+*.cache
+
+# IDE settings
+.vs/
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Logs, dumps, and temporary files
+*.bak
+*.dmp
+*.log
+*.tmp
+*.zip
+
+# Operating-system metadata
+.DS_Store
+Thumbs.db
+desktop.ini
